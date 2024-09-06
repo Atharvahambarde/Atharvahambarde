@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Atharvahambarde/Atharvahambarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +27,6 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/atharva-hambarde-a192a1206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-hambarde-a192a1206" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/atharva_0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atharva_0" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/atharvahambarde0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atharvahambarde0" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/atharva_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="atharva_0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/atharvahambarde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharvahambarde" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/atharvahambarde20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atharvahambarde20" height="30" width="40" /></a>
 </p>
